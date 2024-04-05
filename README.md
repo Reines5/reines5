@@ -1,6 +1,6 @@
 <h2 align="center"/> Hi there 👋 </>
 <p align="center">
-<p><h3>I am Enes from Turkey, and I do content on Development. I really enjoy learning languages like Java, C++ and Python. I started the software with frontend languages, then I went to the backend because the backend caught my attention. I am currently using Java language.</></p>
+<p><h3>I am Enes from Turkey, and I am currently studing Istanbul University. I do content on Development. I really enjoy learning languages like Java, C++ and Python. I started the software with frontend languages, then I went to the backend because the backend caught my attention. I am currently using Java language.</></p>
 
 
 ## Skills and Experience
